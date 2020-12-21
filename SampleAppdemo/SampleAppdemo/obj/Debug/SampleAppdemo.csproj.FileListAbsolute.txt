@@ -1,0 +1,7 @@
+D:\Git_Example\hello-word\SampleAppdemo\SampleAppdemo\bin\Debug\SampleAppdemo.exe.config
+D:\Git_Example\hello-word\SampleAppdemo\SampleAppdemo\bin\Debug\SampleAppdemo.exe
+D:\Git_Example\hello-word\SampleAppdemo\SampleAppdemo\bin\Debug\SampleAppdemo.pdb
+D:\Git_Example\hello-word\SampleAppdemo\SampleAppdemo\obj\Debug\SampleAppdemo.csprojAssemblyReference.cache
+D:\Git_Example\hello-word\SampleAppdemo\SampleAppdemo\obj\Debug\SampleAppdemo.csproj.CoreCompileInputs.cache
+D:\Git_Example\hello-word\SampleAppdemo\SampleAppdemo\obj\Debug\SampleAppdemo.exe
+D:\Git_Example\hello-word\SampleAppdemo\SampleAppdemo\obj\Debug\SampleAppdemo.pdb
